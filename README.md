@@ -1,6 +1,5 @@
 # BigDataAnalaytics – Part 1: Data Acquisition, Integration & Preparation
 
-**MSc Big Data Analytics and Decision Making | MOD009771**
 
 A structured data preparation pipeline for the [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) (Kaggle, 2018), covering real-world e-commerce transactions from 2016–2018.
 
